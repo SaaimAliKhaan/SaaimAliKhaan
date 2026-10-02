@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saaim Ali Khan
 
-### 🚀 DevOps Engineer | Cloud & DevOps Enthusiast
+### 🚀 Aspiring DevOps Engineer | Cloud & DevOps Enthusiast
 
 I'm a Computer Science Engineering student with a strong interest in
 **DevOps, Cloud Computing, Containerization, Kubernetes and CI/CD**.
