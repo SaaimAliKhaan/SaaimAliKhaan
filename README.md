@@ -1,18 +1,99 @@
-# 💫 About Me:
-Saaim Ali Khan<br>Final Year Computer Science and Engineering Student<br>Software Engineer<br><br>
+# 👋 Hi, I'm Saaim Ali Khan
 
+### 🚀 DevOps Engineer | Cloud & DevOps Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saaimoffside) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Saaim Ali Khan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saaimalikhan888@gmail.com) 
+I'm a Computer Science Engineering student with a strong interest in
+**DevOps, Cloud Computing, Containerization, Kubernetes and CI/CD**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=SaaimAliKhaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=SaaimAliKhaan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SaaimAliKhaan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I enjoy building, deploying and automating applications using modern
+DevOps tools and cloud technologies.
 
 ---
-[![](https://komarev.com/ghpvc/?username=SaaimAliKhaan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ DevOps Tech Stack
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🐳 Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Minikube](https://img.shields.io/badge/Minikube-94399E?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔄 CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🏗️ Infrastructure as Code & Automation
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 💻 Programming & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🚀 DevOps Projects
+
+### 🔹 Go Web Application – AWS EKS Deployment
+
+- Containerized a Go web application using **Docker**
+- Built and tested Docker images locally
+- Deployed the application on **Amazon EKS**
+- Created Kubernetes **Deployments and Services**
+- Configured **Ingress** for application routing
+- Worked with Kubernetes networking and NodePort
+- Managed AWS resources using **AWS CLI and eksctl**
+
+### 🔹 End-to-End DevOps Project
+
+- Dockerized application
+- Kubernetes deployment
+- CI/CD automation using **Jenkins**
+- Infrastructure provisioning using **Terraform**
+- Configuration management using **Ansible**
+- Monitoring using **Prometheus & Grafana**
+- Git-based workflow using **GitHub**
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Kubernetes
+- AWS Cloud & EKS
+- CI/CD Pipelines
+- Infrastructure as Code
+- GitOps with Argo CD
+- Kubernetes Monitoring
+- Linux & Shell Scripting
+
+---
+
+## 🎯 Career Goal
+
+Looking for an entry-level **DevOps / Cloud / DevOps Engineer** opportunity
+where I can work with cloud infrastructure, automation, containers,
+Kubernetes and CI/CD pipelines.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+
+---
+
+⭐ Check out my repositories to see my DevOps and Cloud projects.
